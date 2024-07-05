@@ -1,0 +1,146 @@
+body {
+    font-family: sans-serif;
+}
+
+#heading {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 15px 5px 40px;
+    background: rgb(24, 185, 169);
+    border-radius: 20px;
+    border: 1px solid rgb(24, 185, 169);
+}
+
+.nav {
+    margin: 30px 45px;
+    background: none;
+    border-radius: 5px;
+    border: rgb(24, 185, 169);
+}
+
+.nav:hover {
+    background: turquoise;
+}
+
+.img-1 {
+    width: 200px;
+    border: px solid;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+#product-one {
+    border: px solid rgb(0, 134, 121);   
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+    text-align: center;
+}
+
+#btn-one {
+    margin: 20px;
+    border: 1px solid rgb(0, 134, 121);
+    border-radius: 10px;
+    background-image: url(images/rahul-chakraborty-xsGxhtAsfSA-unsplash.jpg);
+    background-size: 400px 400px;
+}
+
+h2 {
+    margin: 30px;
+    border: 1px solid rgb(0, 134, 121);
+    border-radius: 10px;
+    padding: 10px 20px;
+    width: 200px;
+    background: rgb(232, 255, 253);
+}
+
+#category-body {
+    border: 2px solid rgb(0, 134, 121);
+    border-radius: 10px;
+    background: rgb(232, 255, 253);
+}
+
+p {
+    margin-top: 280px;
+    font-size: large;
+}
+
+#btn-two {
+    margin: 20px;
+    border: 1px solid rgb(0, 134, 121);
+    border-radius: 10px;
+    background-image: url(images/laptop\ 3.jpg);
+    background-size: 400px 350px;
+}
+
+#btn-three {
+    margin: 20px;
+    border: 1px solid rgb(0, 134, 121);
+    border-radius: 10px;
+    background-image: url(images/PC\ 2.jpg);
+    background-size: 400px 350px;
+}
+
+.p-PC {
+    color: aliceblue;
+}
+
+#btn-four {
+    margin: 20px;
+    border: 1px solid rgb(0, 134, 121);
+    border-radius: 10px;
+    background-image: url(images/smart\ watch\ 2.jpg);
+    background-size: 400px 350px;
+}
+
+#btn-five {
+    margin: 20px;
+    border: 1px solid rgb(0, 134, 121);
+    border-radius: 10px;
+    background-image: url(images/gabriel-beaudry-5X5dCf4Pp44-unsplash.jpg);
+    background-size: 400px 350px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
